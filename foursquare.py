@@ -40,3 +40,4 @@ if __name__ == "__main__":
     category = input("Введите интересующую вас категорию (например, кофейня, музей, парк): ")
     city = input("Введите название города (например, Москва, Нью-Йорк): ")
     search_places_by_category_and_city(category, city)
+
